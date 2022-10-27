@@ -1,4 +1,4 @@
-name: OpenApi Schema PR
+name: Create OpenAPI Schema PR
 
 on:
   workflow_dispatch:
